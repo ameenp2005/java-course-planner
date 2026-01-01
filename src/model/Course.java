@@ -12,13 +12,13 @@ public Course(String name, int credits, int difficulty){
   this.difficulty = difficulty;
   
 }
-public String getName{
+public String getName(){
   return name;
 }
-public int getCredits{
+public int getCredits(){
   return credits;
 }
-  public int getDifficulty{
+  public int getDifficulty(){
   return difficulty;
   }
 
